@@ -412,6 +412,3 @@ function foo(strings, ...values) {
 
     return str;
 }
-
-
-
